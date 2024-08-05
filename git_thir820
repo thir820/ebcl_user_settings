@@ -1,0 +1,5 @@
+git config user.email "thomas.irgang@elektrobit.com"    
+git config user.name "Thomas Irgang (thir820)"
+git config user.signingkey DC6F3E6DCDCE4DDD46B6D0765EB937787642170F
+git config commit.gpgsign true
+

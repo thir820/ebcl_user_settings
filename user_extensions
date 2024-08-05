@@ -2,6 +2,12 @@
 
 set -e
 
+# Setup ebcl_build_tools for development
+cd /build/ebcl_build_tools
+/workspace/tools/user_config/git_thir820
+git remote add github git@github.com:Elektrobit/ebcl_build_tools.git
+
+
 which code
 
 # Install extensions
